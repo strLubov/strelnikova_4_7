@@ -1,0 +1,205 @@
+Period,Inst_sector,Inst_sector_code,Descriptor,SNA08TRANS,Asset_liability_code,Values
+2007.03,Non-corporate business enterprises,121,Closing balance total assets,LE00000,A000000,345973
+2007.03,Non-corporate business enterprises,121,Financial assets Closing balance total financial and non-financial assets,LE00000,AFA0000,99770
+2007.03,Non-corporate business enterprises,121,Financial assets Closing balance monetary gold and special drawing rights,LE00000,AFA0100,0
+2007.03,Non-corporate business enterprises,121,Financial assets Closing balance currency and deposits,LE00000,AFA0200,14773
+2007.03,Non-corporate business enterprises,121,Financial assets Closing balance debt securities,LE00000,AFA0300,1267
+2007.03,Non-corporate business enterprises,121,Financial assets Closing balance loans,LE00000,AFA0400,21229
+2007.03,Non-corporate business enterprises,121,Financial assets Closing balance equity and investment fund shares,LE00000,AFA0500,58890
+2007.03,Non-corporate business enterprises,121,"Financial assets Closing balance insurance, pension and standardised guarantee schemes",LE00000,AFA0600,285
+2007.03,Non-corporate business enterprises,121,Financial assets Closing balance financial derivatives and employee stock options,LE00000,AFA0700,0
+2007.03,Non-corporate business enterprises,121,Financial assets Closing balance other accounts receivable,LE00000,AFA0800,3326
+2007.03,Non-corporate business enterprises,121,Financial liabilities Closing balance total financial liabilities,LE00000,AFL0000,345973
+2007.03,Non-corporate business enterprises,121,Financial liabilities Closing balance monetary gold and special drawing rights,LE00000,AFL0100,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Closing balance currency and deposits,LE00000,AFL0200,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Closing balance debt securities,LE00000,AFL0300,4613
+2007.03,Non-corporate business enterprises,121,Financial liabilities Closing balance loans,LE00000,AFL0400,62585
+2007.03,Non-corporate business enterprises,121,Financial liabilities Closing balance equity and investment fund shares,LE00000,AFL0500,270629
+2007.03,Non-corporate business enterprises,121,"Financial liabilities Closing balance insurance, pension and standardised guarantee schemes",LE00000,AFL0600,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Closing balance financial derivatives and employee stock options,LE00000,AFL0700,0
+2007.03,Non-corporate business enterprises,121,Financial liabilities Closing balance other accounts payable,LE00000,AFL0800,8146
+2007.03,Non-corporate business enterprises,121,Financial assets Closing balance produced non-financial assets,LE00000,AN10000,91764
+2007.03,Non-corporate business enterprises,121,Financial assets Closing balance non-produced non-financial assets,LE00000,AN20000,154439
+2007.03,Non-corporate business enterprises,121,Closing balance net worth,LE00000,B900000,0
+2007.03,Non-corporate business enterprises,121,Closing balance total liabilities and net worth,LE00000,L000000,345973
+2007.03,Corporate business enterprises,141,Closing balance total assets,LE00000,A000000,567352
+2007.03,Corporate business enterprises,141,Financial assets Closing balance total financial and non-financial assets,LE00000,AFA0000,194836
+2007.03,Corporate business enterprises,141,Financial assets Closing balance monetary gold and special drawing rights,LE00000,AFA0100,0
+2007.03,Corporate business enterprises,141,Financial assets Closing balance currency and deposits,LE00000,AFA0200,21420
+2007.03,Corporate business enterprises,141,Financial assets Closing balance debt securities,LE00000,AFA0300,1915
+2007.03,Corporate business enterprises,141,Financial assets Closing balance loans,LE00000,AFA0400,33187
+2007.03,Corporate business enterprises,141,Financial assets Closing balance equity and investment fund shares,LE00000,AFA0500,80739
+2007.03,Corporate business enterprises,141,"Financial assets Closing balance insurance, pension and standardised guarantee schemes",LE00000,AFA0600,1036
+2007.03,Corporate business enterprises,141,Financial assets Closing balance financial derivatives and employee stock options,LE00000,AFA0700,1869
+2007.03,Corporate business enterprises,141,Financial assets Closing balance other accounts receivable,LE00000,AFA0800,54670
+2007.03,Corporate business enterprises,141,Financial liabilities Closing balance total financial liabilities,LE00000,AFL0000,583116
+2007.03,Corporate business enterprises,141,Financial liabilities Closing balance monetary gold and special drawing rights,LE00000,AFL0100,0
+2007.03,Corporate business enterprises,141,Financial liabilities Closing balance currency and deposits,LE00000,AFL0200,0
+2007.03,Corporate business enterprises,141,Financial liabilities Closing balance debt securities,LE00000,AFL0300,14306
+2007.03,Corporate business enterprises,141,Financial liabilities Closing balance loans,LE00000,AFL0400,170960
+2007.03,Corporate business enterprises,141,Financial liabilities Closing balance equity and investment fund shares,LE00000,AFL0500,347521
+2007.03,Corporate business enterprises,141,"Financial liabilities Closing balance insurance, pension and standardised guarantee schemes",LE00000,AFL0600,0
+2007.03,Corporate business enterprises,141,Financial liabilities Closing balance financial derivatives and employee stock options,LE00000,AFL0700,2031
+2007.03,Corporate business enterprises,141,Financial liabilities Closing balance other accounts payable,LE00000,AFL0800,48298
+2007.03,Corporate business enterprises,141,Financial assets Closing balance produced non-financial assets,LE00000,AN10000,209773
+2007.03,Corporate business enterprises,141,Financial assets Closing balance non-produced non-financial assets,LE00000,AN20000,162744
+2007.03,Corporate business enterprises,141,Closing balance net worth,LE00000,B900000,-15763
+2007.03,Corporate business enterprises,141,Closing balance total liabilities and net worth,LE00000,L000000,567352
+2007.03,Central bank,211,Closing balance total assets,LE00000,A000000,20719
+2007.03,Central bank,211,Financial assets Closing balance total financial and non-financial assets,LE00000,AFA0000,20663
+2007.03,Central bank,211,Financial assets Closing balance monetary gold and special drawing rights,LE00000,AFA0100,0
+2007.03,Central bank,211,Financial assets Closing balance currency and deposits,LE00000,AFA0200,446
+2007.03,Central bank,211,Financial assets Closing balance debt securities,LE00000,AFA0300,15368
+2007.03,Central bank,211,Financial assets Closing balance loans,LE00000,AFA0400,4313
+2007.03,Central bank,211,Financial assets Closing balance equity and investment fund shares,LE00000,AFA0500,102
+2007.03,Central bank,211,"Financial assets Closing balance insurance, pension and standardised guarantee schemes",LE00000,AFA0600,0
+2007.03,Central bank,211,Financial assets Closing balance financial derivatives and employee stock options,LE00000,AFA0700,395
+2007.03,Central bank,211,Financial assets Closing balance other accounts receivable,LE00000,AFA0800,39
+2007.03,Central bank,211,Financial liabilities Closing balance total financial liabilities,LE00000,AFL0000,20719
+2007.03,Central bank,211,Financial liabilities Closing balance monetary gold and special drawing rights,LE00000,AFL0100,0
+2007.03,Central bank,211,Financial liabilities Closing balance currency and deposits,LE00000,AFL0200,13531
+2007.03,Central bank,211,Financial liabilities Closing balance debt securities,LE00000,AFL0300,0
+2007.03,Central bank,211,Financial liabilities Closing balance loans,LE00000,AFL0400,5182
+2007.03,Central bank,211,Financial liabilities Closing balance equity and investment fund shares,LE00000,AFL0500,1609
+2007.03,Central bank,211,"Financial liabilities Closing balance insurance, pension and standardised guarantee schemes",LE00000,AFL0600,0
+2007.03,Central bank,211,Financial liabilities Closing balance financial derivatives and employee stock options,LE00000,AFL0700,0
+2007.03,Central bank,211,Financial liabilities Closing balance other accounts payable,LE00000,AFL0800,397
+2007.03,Central bank,211,Financial assets Closing balance produced non-financial assets,LE00000,AN10000,42
+2007.03,Central bank,211,Financial assets Closing balance non-produced non-financial assets,LE00000,AN20000,14
+2007.03,Central bank,211,Closing balance net worth,LE00000,B900000,0
+2007.03,Central bank,211,Closing balance total liabilities and net worth,LE00000,L000000,20719
+2007.03,Registered banks,221,Closing balance total assets,LE00000,A000000,300264
+2007.03,Registered banks,221,Financial assets Closing balance total financial and non-financial assets,LE00000,AFA0000,293582
+2007.03,Registered banks,221,Financial assets Closing balance monetary gold and special drawing rights,LE00000,AFA0100,0
+2007.03,Registered banks,221,Financial assets Closing balance currency and deposits,LE00000,AFA0200,11993
+2007.03,Registered banks,221,Financial assets Closing balance debt securities,LE00000,AFA0300,16493
+2007.03,Registered banks,221,Financial assets Closing balance loans,LE00000,AFA0400,253893
+2007.03,Registered banks,221,Financial assets Closing balance equity and investment fund shares,LE00000,AFA0500,378
+2007.03,Registered banks,221,"Financial assets Closing balance insurance, pension and standardised guarantee schemes",LE00000,AFA0600,..
+2007.03,Registered banks,221,Financial assets Closing balance financial derivatives and employee stock options,LE00000,AFA0700,8104
+2007.03,Registered banks,221,Financial assets Closing balance other accounts receivable,LE00000,AFA0800,2721
+2007.03,Registered banks,221,Financial liabilities Closing balance total financial liabilities,LE00000,AFL0000,318750
+2007.03,Registered banks,221,Financial liabilities Closing balance monetary gold and special drawing rights,LE00000,AFL0100,0
+2007.03,Registered banks,221,Financial liabilities Closing balance currency and deposits,LE00000,AFL0200,161122
+2007.03,Registered banks,221,Financial liabilities Closing balance debt securities,LE00000,AFL0300,86031
+2007.03,Registered banks,221,Financial liabilities Closing balance loans,LE00000,AFL0400,29196
+2007.03,Registered banks,221,Financial liabilities Closing balance equity and investment fund shares,LE00000,AFL0500,30897
+2007.03,Registered banks,221,"Financial liabilities Closing balance insurance, pension and standardised guarantee schemes",LE00000,AFL0600,0
+2007.03,Registered banks,221,Financial liabilities Closing balance financial derivatives and employee stock options,LE00000,AFL0700,8845
+2007.03,Registered banks,221,Financial liabilities Closing balance other accounts payable,LE00000,AFL0800,2659
+2007.03,Registered banks,221,Financial assets Closing balance produced non-financial assets,LE00000,AN10000,2082
+2007.03,Registered banks,221,Financial assets Closing balance non-produced non-financial assets,LE00000,AN20000,4600
+2007.03,Registered banks,221,Closing balance net worth,LE00000,B900000,-18486
+2007.03,Registered banks,221,Closing balance total liabilities and net worth,LE00000,L000000,300264
+2007.03,Other depository institutions,222,Closing balance total assets,LE00000,A000000,16502
+2007.03,Other depository institutions,222,Financial assets Closing balance total financial and non-financial assets,LE00000,AFA0000,16308
+2007.03,Other depository institutions,222,Financial assets Closing balance monetary gold and special drawing rights,LE00000,AFA0100,0
+2007.03,Other depository institutions,222,Financial assets Closing balance currency and deposits,LE00000,AFA0200,..
+2007.03,Other depository institutions,222,Financial assets Closing balance debt securities,LE00000,AFA0300,10
+2007.03,Other depository institutions,222,Financial assets Closing balance loans,LE00000,AFA0400,16298
+2007.03,Other depository institutions,222,Financial assets Closing balance equity and investment fund shares,LE00000,AFA0500,..
+2007.03,Other depository institutions,222,"Financial assets Closing balance insurance, pension and standardised guarantee schemes",LE00000,AFA0600,..
+2007.03,Other depository institutions,222,Financial assets Closing balance financial derivatives and employee stock options,LE00000,AFA0700,..
+2007.03,Other depository institutions,222,Financial assets Closing balance other accounts receivable,LE00000,AFA0800,..
+2007.03,Other depository institutions,222,Financial liabilities Closing balance total financial liabilities,LE00000,AFL0000,16502
+2007.03,Other depository institutions,222,Financial liabilities Closing balance monetary gold and special drawing rights,LE00000,AFL0100,0
+2007.03,Other depository institutions,222,Financial liabilities Closing balance currency and deposits,LE00000,AFL0200,14569
+2007.03,Other depository institutions,222,Financial liabilities Closing balance debt securities,LE00000,AFL0300,..
+2007.03,Other depository institutions,222,Financial liabilities Closing balance loans,LE00000,AFL0400,..
+2007.03,Other depository institutions,222,Financial liabilities Closing balance equity and investment fund shares,LE00000,AFL0500,1933
+2007.03,Other depository institutions,222,"Financial liabilities Closing balance insurance, pension and standardised guarantee schemes",LE00000,AFL0600,0
+2007.03,Other depository institutions,222,Financial liabilities Closing balance financial derivatives and employee stock options,LE00000,AFL0700,..
+2007.03,Other depository institutions,222,Financial liabilities Closing balance other accounts payable,LE00000,AFL0800,..
+2007.03,Other depository institutions,222,Financial assets Closing balance produced non-financial assets,LE00000,AN10000,181
+2007.03,Other depository institutions,222,Financial assets Closing balance non-produced non-financial assets,LE00000,AN20000,13
+2007.03,Other depository institutions,222,Closing balance net worth,LE00000,B900000,0
+2007.03,Other depository institutions,222,Closing balance total liabilities and net worth,LE00000,L000000,16502
+2007.03,Investment funds,231,Closing balance total assets,LE00000,A000000,40185
+2007.03,Investment funds,231,Financial assets Closing balance total financial and non-financial assets,LE00000,AFA0000,40041
+2007.03,Investment funds,231,Financial assets Closing balance monetary gold and special drawing rights,LE00000,AFA0100,0
+2007.03,Investment funds,231,Financial assets Closing balance currency and deposits,LE00000,AFA0200,9146
+2007.03,Investment funds,231,Financial assets Closing balance debt securities,LE00000,AFA0300,12842
+2007.03,Investment funds,231,Financial assets Closing balance loans,LE00000,AFA0400,0
+2007.03,Investment funds,231,Financial assets Closing balance equity and investment fund shares,LE00000,AFA0500,17740
+2007.03,Investment funds,231,"Financial assets Closing balance insurance, pension and standardised guarantee schemes",LE00000,AFA0600,..
+2007.03,Investment funds,231,Financial assets Closing balance financial derivatives and employee stock options,LE00000,AFA0700,0
+2007.03,Investment funds,231,Financial assets Closing balance other accounts receivable,LE00000,AFA0800,313
+2007.03,Investment funds,231,Financial liabilities Closing balance total financial liabilities,LE00000,AFL0000,40185
+2007.03,Investment funds,231,Financial liabilities Closing balance monetary gold and special drawing rights,LE00000,AFL0100,0
+2007.03,Investment funds,231,Financial liabilities Closing balance currency and deposits,LE00000,AFL0200,0
+2007.03,Investment funds,231,Financial liabilities Closing balance debt securities,LE00000,AFL0300,0
+2007.03,Investment funds,231,Financial liabilities Closing balance loans,LE00000,AFL0400,0
+2007.03,Investment funds,231,Financial liabilities Closing balance equity and investment fund shares,LE00000,AFL0500,40185
+2007.03,Investment funds,231,"Financial liabilities Closing balance insurance, pension and standardised guarantee schemes",LE00000,AFL0600,0
+2007.03,Investment funds,231,Financial liabilities Closing balance financial derivatives and employee stock options,LE00000,AFL0700,..
+2007.03,Investment funds,231,Financial liabilities Closing balance other accounts payable,LE00000,AFL0800,..
+2007.03,Investment funds,231,Financial assets Closing balance produced non-financial assets,LE00000,AN10000,144
+2007.03,Investment funds,231,Financial assets Closing balance non-produced non-financial assets,LE00000,AN20000,0
+2007.03,Investment funds,231,Closing balance net worth,LE00000,B900000,0
+2007.03,Investment funds,231,Closing balance total liabilities and net worth,LE00000,L000000,40185
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,Closing balance total assets,LE00000,A000000,83629
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,Financial assets Closing balance total financial and non-financial assets,LE00000,AFA0000,82880
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,Financial assets Closing balance monetary gold and special drawing rights,LE00000,AFA0100,0
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,Financial assets Closing balance currency and deposits,LE00000,AFA0200,1314
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,Financial assets Closing balance debt securities,LE00000,AFA0300,42957
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,Financial assets Closing balance loans,LE00000,AFA0400,33315
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,Financial assets Closing balance equity and investment fund shares,LE00000,AFA0500,1784
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,"Financial assets Closing balance insurance, pension and standardised guarantee schemes",LE00000,AFA0600,..
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,Financial assets Closing balance financial derivatives and employee stock options,LE00000,AFA0700,99
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,Financial assets Closing balance other accounts receivable,LE00000,AFA0800,3411
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,Financial liabilities Closing balance total financial liabilities,LE00000,AFL0000,84279
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,Financial liabilities Closing balance monetary gold and special drawing rights,LE00000,AFL0100,0
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,Financial liabilities Closing balance currency and deposits,LE00000,AFL0200,0
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,Financial liabilities Closing balance debt securities,LE00000,AFL0300,55445
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,Financial liabilities Closing balance loans,LE00000,AFL0400,19291
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,Financial liabilities Closing balance equity and investment fund shares,LE00000,AFL0500,8020
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,"Financial liabilities Closing balance insurance, pension and standardised guarantee schemes",LE00000,AFL0600,0
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,Financial liabilities Closing balance financial derivatives and employee stock options,LE00000,AFL0700,130
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,Financial liabilities Closing balance other accounts payable,LE00000,AFL0800,1393
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,Financial assets Closing balance produced non-financial assets,LE00000,AN10000,735
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,Financial assets Closing balance non-produced non-financial assets,LE00000,AN20000,14
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,Closing balance net worth,LE00000,B900000,-650
+2007.03,Other financial intermediaries excluding insurance and pension funds,241,Closing balance total liabilities and net worth,LE00000,L000000,83629
+2007.03,Insurance corporations,251,Closing balance total assets,LE00000,A000000,21314
+2007.03,Insurance corporations,251,Financial assets Closing balance total financial and non-financial assets,LE00000,AFA0000,19849
+2007.03,Insurance corporations,251,Financial assets Closing balance monetary gold and special drawing rights,LE00000,AFA0100,0
+2007.03,Insurance corporations,251,Financial assets Closing balance currency and deposits,LE00000,AFA0200,C
+2007.03,Insurance corporations,251,Financial assets Closing balance debt securities,LE00000,AFA0300,C
+2007.03,Insurance corporations,251,Financial assets Closing balance loans,LE00000,AFA0400,C
+2013.03,Local government institutions,321,Financial assets Closing balance loans,LE00000,AFA0400,1215
+2013.03,Local government institutions,321,Financial assets Closing balance equity and investment fund shares,LE00000,AFA0500,9723
+2013.03,Local government institutions,321,"Financial assets Closing balance insurance, pension and standardised guarantee schemes",LE00000,AFA0600,0
+2013.03,Local government institutions,321,Financial assets Closing balance financial derivatives and employee stock options,LE00000,AFA0700,207
+2013.03,Local government institutions,321,Financial assets Closing balance other accounts receivable,LE00000,AFA0800,1477
+2013.03,Local government institutions,321,Financial liabilities Closing balance total financial liabilities,LE00000,AFL0000,12673
+2013.03,Local government institutions,321,Financial liabilities Closing balance monetary gold and special drawing rights,LE00000,AFL0100,0
+2013.03,Local government institutions,321,Financial liabilities Closing balance currency and deposits,LE00000,AFL0200,0
+2013.03,Local government institutions,321,Financial liabilities Closing balance debt securities,LE00000,AFL0300,5048
+2013.03,Local government institutions,321,Financial liabilities Closing balance loans,LE00000,AFL0400,4885
+2013.03,Local government institutions,321,Financial liabilities Closing balance equity and investment fund shares,LE00000,AFL0500,0
+2013.03,Local government institutions,321,"Financial liabilities Closing balance insurance, pension and standardised guarantee schemes",LE00000,AFL0600,0
+2013.03,Local government institutions,321,Financial liabilities Closing balance financial derivatives and employee stock options,LE00000,AFL0700,419
+2013.03,Local government institutions,321,Financial liabilities Closing balance other accounts payable,LE00000,AFL0800,2321
+2013.03,Local government institutions,321,Financial assets Closing balance produced non-financial assets,LE00000,AN10000,43650
+2013.03,Local government institutions,321,Financial assets Closing balance non-produced non-financial assets,LE00000,AN20000,27957
+2013.03,Local government institutions,321,Closing balance net worth,LE00000,B900000,73738
+2013.03,Local government institutions,321,Closing balance total liabilities and net worth,LE00000,L000000,86410
+2013.03,Non-profit institutions serving households,400,Closing balance total assets,LE00000,A000000,28915
+2013.03,Non-profit institutions serving households,400,Financial assets Closing balance total financial and non-financial assets,LE00000,AFA0000,13004
+2013.03,Non-profit institutions serving households,400,Financial assets Closing balance monetary gold and special drawing rights,LE00000,AFA0100,0
+2013.03,Non-profit institutions serving households,400,Financial assets Closing balance currency and deposits,LE00000,AFA0200,5249
+2013.03,Non-profit institutions serving households,400,Financial assets Closing balance debt securities,LE00000,AFA0300,176
+2013.03,Non-profit institutions serving households,400,Financial assets Closing balance loans,LE00000,AFA0400,7026
+2013.03,Non-profit institutions serving households,400,Financial assets Closing balance equity and investment fund shares,LE00000,AFA0500,379
+2013.03,Non-profit institutions serving households,400,"Financial assets Closing balance insurance, pension and standardised guarantee schemes",LE00000,AFA0600,..
+2013.03,Non-profit institutions serving households,400,Financial assets Closing balance financial derivatives and employee stock options,LE00000,AFA0700,32
+2013.03,Non-profit institutions serving households,400,Financial assets Closing balance other accounts receivable,LE00000,AFA0800,142
+2013.03,Non-profit institutions serving households,400,Financial liabilities Closing balance total financial liabilities,LE00000,AFL0000,797
+2013.03,Non-profit institutions serving households,400,Financial liabilities Closing balance monetary gold and special drawing rights,LE00000,AFL0100,0
+2013.03,Non-profit institutions serving households,400,Financial liabilities Closing balance currency and deposits,LE00000,AFL0200,0
+2013.03,Non-profit institutions serving households,400,Financial liabilities Closing balance debt securities,LE00000,AFL0300,10
+2013.03,Non-profit institutions serving households,400,Financial liabilities Closing balance loans,LE00000,AFL0400,485
+2013.03,Non-profit institutions serving households,400,Financial liabilities Closing balance equity and investment fund shares,LE00000,AFL0500,0
+2013.03,Non-profit institutions serving households,400,"Financial liabilities Closing balance insurance, pension and standardised guarantee schemes",LE00000,AFL0600,0
+2013.03,Non-profit institutions serving households,400,Financial liabilities Closing balance financial derivatives and employee stock options,LE00000,AFL0700,..
+2013.03,Non-profit institutions serving households,400,Financial liabilities Closing balance other accounts payable,LE00000,AFL0800,302
